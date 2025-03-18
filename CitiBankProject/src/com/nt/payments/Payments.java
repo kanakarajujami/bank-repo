@@ -7,6 +7,6 @@ public class Payments {
 	 }
 	 
 	 public void shop() {
-		 System.out.println("trouser, paint , watch total price is:"+2000);
+		 System.out.println("trouser, paint , watch total price is:"+3490);
 	 }
 }
