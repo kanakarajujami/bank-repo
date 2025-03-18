@@ -6,4 +6,7 @@ public class CustomerSupport {
 		System.out.println("Our customer service 9AM to 6PM daily");
 	}
 	
+	public void record1() {
+		System.out.println("your conversation recorded security purpose  ");
+	}
 }
