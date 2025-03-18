@@ -15,9 +15,15 @@ public class Payments {
 		 System.out.println("Flipkart funtionality added by developer..");
 	 }
 	
+
 	 public void showPayment() {
 		 System.out.println("payment functionality bug solved");
 		 System.out.println("payment functionality bug solved");
+
+	 }
+	 public void amazon() {
+		 System.out.println("amazon pay acceptable");
+
 	 }
 
 }
