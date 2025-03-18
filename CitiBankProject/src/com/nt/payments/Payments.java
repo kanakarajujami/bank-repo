@@ -10,6 +10,7 @@ public class Payments {
 		 System.out.println("trouser, paint , watch total price is:"+3490);
 	 }
 	 
+	 
 	 public void flipkart() {
 		 System.out.println("Flipkart funtionality added by developer..");
 	 }
